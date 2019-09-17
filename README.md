@@ -10,7 +10,7 @@ This is a sample [Apigee Edge](https://apigee.com/api-management) API proxy to g
 - If you plan to use algorithms with large key sizes like AES256, you need to install [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files](http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html)
 
 ## Install
-`git clone https://github.com/gahana/edge-jwt-sample.git` or download this repository.
+`git clone https://github.com/vgadikota/edge-jwt-sample.git` or download this repository.
 
 Set your Apigee Edge username and password in environment variables
 
